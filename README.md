@@ -1,5 +1,4 @@
 # DAA-lab
-a repo for my DAA lab practicals
 List of experiment for DAA lab:
 Exp 0: intro to DAA lab.
 Exp 1: WAP to implement linear and binary search.
