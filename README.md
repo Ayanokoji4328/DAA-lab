@@ -11,3 +11,4 @@ Exp 7: WAP to find minimum cost spanning tree using primes algorithm.
 Exp 8: WAP to find minimum cost spanning tree using kruskals algorithm.
 Exp 9: WAP to solve N - queens problem.
 Exp 10: WAP to solve sum of subset problem for a given set of distinct numbers.
+Link for outputs: https://drive.google.com/drive/folders/1LPzDL_f8a9OPSgEvswM1p3n6cqfQk_Qx?usp=sharing
